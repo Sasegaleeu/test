@@ -1,0 +1,17 @@
+package com.example.demo4.domain;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+
+@Getter
+@Builder
+@NoArgsConstructor
+@AllArgsConstructor
+public class Admin {
+    private int admin_id;
+    private String name;
+    private String email;
+    private String password;
+}

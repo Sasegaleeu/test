@@ -1,0 +1,61 @@
+[
+  {
+    "product_name": "사과",
+    "price": 2000,
+    "category": "vegetable_fruit"
+  },
+  {
+    "product_name": "당근",
+    "description": "신선하고 단단한 당근",
+    "price": 500,
+    "category": "vegetable_fruit"
+  },
+  {
+    "product_name": "소고기",
+    "description": "고급 호주산 소고기",
+    "price": 15000,
+    "category": "meat"
+  },
+  {
+    "product_name": "생선",
+    "description": "신선한 노르웨이 삼치",
+    "price": 5000,
+    "category": "seafood"
+  },
+  {
+    "product_name": "우유",
+    "description": "국산 신선한 우유",
+    "price": 2500,
+    "category": "dairy"
+  },
+  {
+    "product_name": "오렌지",
+    "description": "신선하고 달콤한 오렌지",
+    "price": 3000,
+    "category": "vegetable_fruit"
+  },
+  {
+    "product_name": "돼지고기",
+    "description": "프리미엄 등심 돼지고기",
+    "price": 10000,
+    "category": "meat"
+  },
+  {
+    "product_name": "새우",
+    "description": "냉동 신선 새우",
+    "price": 7000,
+    "category": "seafood"
+  },
+  {
+    "product_name": "치즈",
+    "description": "진한 맛의 체다 치즈",
+    "price": 3500,
+    "category": "dairy"
+  },
+  {
+    "product_name": "딸기",
+    "description": "달콤한 국산 딸기",
+    "price": 4000,
+    "category": "vegetable_fruit"
+  }
+]
